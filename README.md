@@ -1,4 +1,4 @@
-### Hi there, I'm [Aryaman](www.aryamansrivastava.ml) 👋
+### Hi there, I'm [Aryaman](https://www.aryamansrivastava.ml) 👋
 
 
 ## I'm a Student, Author, and a Developer!!
