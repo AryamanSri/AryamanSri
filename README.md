@@ -1,4 +1,4 @@
-### Hi there, I'm Aryaman👋
+### Hi there, I'm [Aryaman](website) 👋
 
 
 ## I'm a Student, Author, and a Developer!!
@@ -29,7 +29,7 @@
 
 </details>
 
-[website]: https://github.com/AryamanSri
+[github]: https://github.com/AryamanSri
 [twitter]: https://twitter.com/AryamanSri03
 [discord]: https://discord.com/users/772664417690845184
 [Website]: www.aryamansrivastava.ml/#
