@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on a Brain Tumor Detection Algorithm
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects, upload more videos!
-- ⚡ Fun fact: I am a verified bot developer on discord
+- 🥅 2021 Goals: develop and sharpen my skills
+- ⚡ Fun fact: I am one of the youngest backend developers of India
 
 ### Connect with me:
 
