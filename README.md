@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **C++, Kotlin**
 
-- 👯 I’m looking to collaborate on **Video editing**
+- 👯 I’m looking to collaborate on **AI Projects**
 
-- 🤝 I’m looking for help with **Video Editing**
+- 🤝 I’m looking for help with **Flask**
 
 - 👨‍💻 All of my projects are available at [https://www.aryamansrivastava.ml](https://www.aryamansrivastava.ml)
 
