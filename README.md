@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryaman Srivastava</h1>
 <h3 align="center">A passionate Backend developer and AI Researcher from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamansri&label=Profile%20views&color=0e75b6&style=flat" alt="aryamansri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamansrii&label=Profile%20views&color=0e75b6&style=flat" alt="aryamansri" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/aryamansrii" target="blank"><img src="https://img.shields.io/twitter/follow/aryamansri03?logo=twitter&style=for-the-badge" alt="aryamansri03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryamansrii" target="blank"><img src="https://img.shields.io/twitter/follow/aryamansrii?logo=twitter&style=for-the-badge" alt="aryamansrii" /></a> </p>
 
 - 🔭 I’m currently working on [Brain Scan Enhancer](https://pdfhost.io/v/IkaQ8WJs1_BrainTumorDetection_CSIRpdf.pdf)
 
