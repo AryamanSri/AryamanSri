@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamansri&label=Profile%20views&color=0e75b6&style=flat" alt="aryamansri" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/aryamansri03" target="blank"><img src="https://img.shields.io/twitter/follow/aryamansri03?logo=twitter&style=for-the-badge" alt="aryamansri03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryamansrii" target="blank"><img src="https://img.shields.io/twitter/follow/aryamansri03?logo=twitter&style=for-the-badge" alt="aryamansri03" /></a> </p>
 
 - 🔭 I’m currently working on [Brain Scan Enhancer](https://pdfhost.io/v/IkaQ8WJs1_BrainTumorDetection_CSIRpdf.pdf)
 
