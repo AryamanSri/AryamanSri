@@ -43,5 +43,5 @@
     <span>
   <img src="https://github-readme-stats.vercel.app/api?username=AryamanSrii&show_icons=true&title_color=ff7e00&icon_color=ff5e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&include_all_commits=true&count_private=true" alt="Stats"/>
 </span>
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanSrii&theme=dark&title_color=ff7e00" alt="y330" /></span> 
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanSrii&theme=dark&title_color=ff7e00" alt="AryamanSrii" /></span> 
 
