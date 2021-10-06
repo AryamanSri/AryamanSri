@@ -38,12 +38,12 @@
 <h3 align="left">Stats:</h3>
  
  <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryamanSrii&layout=compact&show_icons=true&title_color=ff7e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&exclude_repo=y330.github.io,y330&hide=jupyter%20notebook"  alt="Most used languages"/>
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryamanSrii&layout=compact&show_icons=true&title_color=ff7e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&exclude_repo=y330.github.io,y330&hide=jupyter%20notebook"  alt="Most used languages"/>
     </span>
     <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=AryamanSrii&show_icons=true&title_color=ff7e00&icon_color=ff5e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=AryamanSrii&show_icons=true&title_color=ff7e00&icon_color=ff5e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&include_all_commits=true&count_private=true" alt="Stats"/>
 </span>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanSrii&theme=dark&title_color=ff7e00" alt="AryamanSrii" />
+<img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryamanSrii&theme=dark&title_color=ff7e00" alt="AryamanSrii" />
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=AryamanSrii&theme=xcode" /></p>
 
 
