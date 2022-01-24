@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **aryamansrivastava@outlook.com**
 
-- ⚡ Fun fact **I am one of the youngest AI Developer of the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
